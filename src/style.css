@@ -1,3 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+#ttt-grid span {
+    @apply bg-gray-100 rounded text-gray-100 w-16 h-16 md:w-24 md:h-24 flex items-center justify-center text-4xl cursor-pointer;
+}
+#ttt-grid span:hover {
+    @apply text-gray-300;
+}
+#ttt-grid span.used {
+    @apply text-gray-500;
+}
+#ttt-grid span.finished {
+    @apply bg-green-600 text-green-100;
+}
+#ttt-grid span.finished.fail {
+    @apply bg-red-800 text-amber-300;
+}
