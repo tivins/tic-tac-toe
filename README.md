@@ -2,13 +2,15 @@
 
 This repository contains an implementation of the classic Tic Tac Toe game using TypeScript, Vite, and Tailwind CSS.
 
+## [Online Demo](https://tivins.github.io/tic-tac-toe/dist/)
+
 ## How to Play
 
 1. Clone this repository to your local machine.
 2. Make sure you have Node.js installed on your machine.
 3. Install dependencies by running `npm install`.
 4. Start the development server by running `npm run dev`.
-5. Open your browser and navigate to `http://localhost:3000`.
+5. Open your browser and navigate to URL given by vite.
 
 ## Features
 
