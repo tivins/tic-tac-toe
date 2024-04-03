@@ -10,7 +10,7 @@ This repository contains an implementation of the classic Tic Tac Toe game using
 2. Make sure you have Node.js installed on your machine.
 3. Install dependencies by running `npm install`.
 4. Start the development server by running `npm run dev`.
-5. Open your browser and navigate to URL given by vite.
+5. Open your browser and navigate to http://localhost:3000.
 
 ## Features
 
